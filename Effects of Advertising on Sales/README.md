@@ -1,1 +1,1 @@
-# supervised-machine-learning
+# Effects of Advertising on Sales
