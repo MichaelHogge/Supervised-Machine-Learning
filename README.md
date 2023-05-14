@@ -1,1 +1,1 @@
-# supervised-machine-learning
+# Supervised Machine Learning
