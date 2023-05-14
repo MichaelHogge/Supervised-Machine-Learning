@@ -1,1 +1,1 @@
-# supervised-machine-learning
+# HyperMart Sales Prediction
