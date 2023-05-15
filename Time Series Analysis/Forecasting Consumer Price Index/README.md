@@ -1,1 +1,1 @@
-# Supervised Machine Learning
+# Forecasting Consumer Price Index
